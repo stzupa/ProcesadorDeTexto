@@ -13,4 +13,4 @@ La aplicación consta de tres clases y varias imágenes que utilizo para poblar 
 
 Para poblar las barras tenía dos opciones, crear los distintos elementos uno a uno o utilizar bucles, utilicé bucles pues ahorro bastantes lineas de código, y en la medida que agregue mas botones solo será necesario agragar los nuevos elementos a los arreglos. 
 
-El método addPoblarBarras es el que realiza esta tarea utilizando bucles y los arreglos, en tiempo de ejecución agrega los efentos a cada elemento.
+El método addPoblarBarras es el que realiza esta tarea utilizando bucles y los arreglos, en tiempo de ejecución agrega los eventos a cada elemento.
