@@ -2,7 +2,7 @@
 
 Esta es una práctica de un curso de Java que realicé, se trata de crear un procesador de texto rudimentario utilizando Swing.
 
-![image](https://user-images.githubusercontent.com/34726470/209587390-963e30f1-bf64-4f19-b1d9-aa4ff3adfb6b.png)
+![image](https://user-images.githubusercontent.com/34726470/209588388-a7399aa4-816d-49a0-a1c4-9e2eab1526cc.png)
 
 ![image](https://user-images.githubusercontent.com/34726470/209587601-455ce951-4461-4359-b534-31ed36d1db31.png)
 
